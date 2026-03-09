@@ -146,7 +146,7 @@ fun_fact   : "Great code is written for humans first, machines second."
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Clickup](https://img.shields.io/badge/Clickup-000000?style=for-the-badge&logo=notion&logoColor=white)
+![clickUp](https://img.shields.io/badge/clickUp-000000?style=for-the-badge&logo=clickUp&logoColor=white)
 
 
 **Monitoring & Observability**
