@@ -5,7 +5,6 @@
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Sethmaurice&color=00d9ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Sethmaurice?label=Followers&style=flat-square&color=00d9ff)](https://github.com/Sethmaurice)
 [![GitHub stars](https://img.shields.io/github/stars/Sethmaurice?label=Stars&style=flat-square&color=00d9ff)](https://github.com/Sethmaurice)
 
 </div>
@@ -17,7 +16,7 @@
 ```yaml
 name       : Seth Maurice Grevisse
 location   : Kigali, Rwanda 🇷🇼
-role       : Senior Full Stack Developer & Software Architect
+role       : Full Stack Developer & Software Architect
 experience : Building production-grade, scalable web systems
 focus      :
   - Cloud-native applications
@@ -38,8 +37,6 @@ fun_fact   : "Great code is written for humans first, machines second."
 
 <div align="center">
 
-[![TheGitCity](https://www.thegitcity.com/api/city?user=sethmaurice&theme=dark)](https://www.thegitcity.com/?user=sethmaurice)
-
 > 🏙️ **[Visit My GitCity →](https://www.thegitcity.com/?user=sethmaurice)**
 
 </div>
@@ -53,11 +50,10 @@ fun_fact   : "Great code is written for humans first, machines second."
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -118,7 +114,7 @@ fun_fact   : "Great code is written for humans first, machines second."
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -142,6 +138,7 @@ fun_fact   : "Great code is written for humans first, machines second."
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -149,6 +146,8 @@ fun_fact   : "Great code is written for humans first, machines second."
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Clickup](https://img.shields.io/badge/Clickup-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 **Monitoring & Observability**
 
@@ -235,19 +234,6 @@ mindmap
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects useful, consider buying me a coffee — it keeps the code flowing! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sethmaurice)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sethmaurice)
 
 </div>
 
