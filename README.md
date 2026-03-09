@@ -245,6 +245,4 @@ mindmap
 
 *— Seth Maurice, building from Kigali 🇷🇼 to the world 🌍*
 
-![Snake animation](https://github.com/Sethmaurice/Sethmaurice/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
